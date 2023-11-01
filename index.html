@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Noise Pollution Monitoring System</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Noise Pollution Monitoring System</h1>
+    </header>
+
+    <div class="container">
+        <h2>Project Overview</h2>
+        <p class="project-description">
+            Welcome to our IoT-based Noise Pollution Monitoring System. Our project focuses on monitoring noise pollution levels in areas with heavy traffic and discouraging unnecessary honking. We use a NodeMCU ESP8266 board, sound sensors, LED indicators, and a Wi-Fi module to collect and display noise data.
+        </p>
+
+        <h2>Sensor Data</h2>
+        <div id="sensor-data">
+            <p>Noise Level: <span id="noise-level">-- dB</span></p>
+            <p>Status: <span id="status">--</span></p>
+        </div>
+
+        <button class="button" onclick="refreshSensorData()">Refresh Data</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
