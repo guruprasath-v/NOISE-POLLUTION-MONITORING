@@ -69,7 +69,9 @@ This project uses the following dependencies:
 
 **UI:**
 
-  ![Screenshot from 2023-11-01 17-57-36](https://github.com/quantum-scripter/NOISE-POLLUTION-MONITORING/assets/138384576/99c294cc-1f4d-45af-aede-2409fa33eef9)
+  ![Screenshot from 2023-11-01 18-09-34](https://github.com/quantum-scripter/NOISE-POLLUTION-MONITORING/assets/138384576/6cfae4de-4585-4faa-a5d7-4f321de9d78f)
+
+
 
 
 **components:**
