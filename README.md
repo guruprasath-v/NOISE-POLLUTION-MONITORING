@@ -67,10 +67,17 @@ This project uses the following dependencies:
 
 ## Images
 
-UI:
+**UI:**
+
+
   ![Screenshot from 2023-11-01 17-57-36](https://github.com/quantum-scripter/NOISE-POLLUTION-MONITORING/assets/138384576/4cb2aa50-773c-4c66-ac27-44bddc0968aa)
 
-components:
+**components:**
+
+
+
+
+
   ![download](https://github.com/quantum-scripter/NOISE-POLLUTION-MONITORING/assets/138384576/170d8e70-5b17-496f-9ba1-a1a8e5c2b954)
   ![Led's](https://github.com/quantum-scripter/NOISE-POLLUTION-MONITORING/assets/138384576/ab6ab24b-ba65-443b-8d3f-9a8419cc2454)
   ![WIFI_module](https://github.com/quantum-scripter/NOISE-POLLUTION-MONITORING/assets/138384576/6e4d2993-86f3-434b-98eb-e840847e7376)
@@ -78,7 +85,8 @@ components:
   ![display-1](https://github.com/quantum-scripter/NOISE-POLLUTION-MONITORING/assets/138384576/d14f67c3-251a-4160-9f13-17a4bc83efcc)
   ![display](https://github.com/quantum-scripter/NOISE-POLLUTION-MONITORING/assets/138384576/7610957c-82e7-4603-bc19-8eb56461c509)
 
-Data Sharing PLatform:
+**Data Sharing PLatform:**
+
   ![Capture-1](https://github.com/quantum-scripter/NOISE-POLLUTION-MONITORING/assets/138384576/a02cba99-0d2d-4854-af41-443fc7abfe28)
 
 
