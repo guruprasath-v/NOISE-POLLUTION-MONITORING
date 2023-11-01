@@ -1,0 +1,2 @@
+BlynkLib==0.6.1
+Adafruit-GPIO==1.0.3
